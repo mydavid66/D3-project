@@ -29,16 +29,8 @@ This is the source for the main Personal website
 Thanks! There are plenty of ways you can help!  
 
 ### Report issues
-Check project and report your issue [here](https://github.com/AliMD/ParsEngCo/issues)    
+Check project and report your issue [here](https://github.com/D3-project)    
 
-1. **Report your Idea**  
-  If you have a any idea about design, programming, technology and other, please open an issue.
-  
-1. **Ask any question**  
-  If you're one of my students and want to upgrade your skills, you can ask any question.  
-
-Good pull requests — patches, improvements, new features — are a fantastic
-help. They should remain focused in scope and avoid containing unrelated commits.
 
 ## All rights reserved ###
 Please note that  Webfa.ws  is a curated site and that we reserve the right to refuse any listing for any reason.  
