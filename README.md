@@ -15,9 +15,7 @@ This is the source for the main Personal website
 * [HTML5](http://ali.md/wiki/html5)
 * [CSS3](http://ali.md/css3ref)
 * [1Styles](http://ali.md/1styles)
-* [JavaScript](http://ali.md/wiki/javascript)
-* [Zepto.js](http://ali.md/zepto.js)
-* [jQuery.js](http://ali.md/jquery.js)
+
 
 
 
