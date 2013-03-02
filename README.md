@@ -1,12 +1,11 @@
-D3-project
-==========
+
+
 README.md
-# Last D3-Project  website
+# D3-Project  website
 This is the source for the main Personal website
 
 ## TEAM (1Devs Web Department)
 * [Davod Noori`mydavid66`](https://github.com/mydavid66) Project Manager
-* [Vahid Sajadi `V.sajadi`](https://github.com/v.sajadi) Technical Manager / Developer/Grafist
 
 ## THANKS (Contributors)
 * [Vahid Sajadi `V.sajadi`](https://github.com/v.sajadi) Technical Manager / Developer/Grafist
@@ -15,6 +14,8 @@ This is the source for the main Personal website
 * [HTML5](http://ali.md/wiki/html5)
 * [CSS3](http://ali.md/css3ref)
 * [1Styles](http://ali.md/1styles)
+*[javascript](http://ali.md/javascript)
+*[php](http://ali.md/php)
 
 
 
