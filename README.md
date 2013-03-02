@@ -1,4 +1,3 @@
-
 # D3-Project  website
 This is the source for the main Personal website
 
@@ -12,8 +11,8 @@ This is the source for the main Personal website
 * [HTML5](http://ali.md/wiki/html5)
 * [CSS3](http://ali.md/css3ref)
 * [1Styles](http://ali.md/1styles)
-*[javascript](http://ali.md/javascript)
-*[php](http://ali.md/php)
+* [javascript](http://ali.md/javascript)
+* [php](http://ali.md/php)
 
 
 
