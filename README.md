@@ -1,11 +1,10 @@
 
 
-README.md
 # D3-Project  website
 This is the source for the main Personal website
 
 ## TEAM (1Devs Web Department)
-* [Davod Noori`mydavid66`](https://github.com/mydavid66) Project Manager
+*[Davod Noori`mydavid66`](https://github.com/mydavid66) Project Manager
 
 ## THANKS (Contributors)
 * [Vahid Sajadi `V.sajadi`](https://github.com/v.sajadi) Technical Manager / Developer/Grafist
