@@ -23,9 +23,6 @@ This is the source for the main Personal website
 * [MySQL](http://ali.md/wiki/mysql)
 * [1Cache](http://ali.md/1cache)
 
-#### HEAD (now)
-  * I have no idea.
-  * [View full changes](https://github.com/AliMD/ParsEngCo/compare/v1.0stable...master)
 
 ## Contributing
 ♥ ParsEngCo website and want to get involved ?  
