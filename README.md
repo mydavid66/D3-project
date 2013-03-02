@@ -41,9 +41,7 @@ Good pull requests — patches, improvements, new features — are a fantastic
 help. They should remain focused in scope and avoid containing unrelated commits.
 
 ## All rights reserved ###
-Please note that parseng.co is a curated site and that we reserve the right to refuse any listing for any reason.  
+Please note that  Webfa.ws  is a curated site and that we reserve the right to refuse any listing for any reason.  
   
-The [ParsEng.co](http://parseng.co) source code is released under [MIT License](http://opensource.org/licenses/MIT).  
 
-## A 1Devs Website
-#### Produced by The<i>One</i>Developers - Web Department  
+
