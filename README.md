@@ -18,10 +18,7 @@ This is the source for the main Personal website
 * [JavaScript](http://ali.md/wiki/javascript)
 * [Zepto.js](http://ali.md/zepto.js)
 * [jQuery.js](http://ali.md/jquery.js)
-* [html5shiv](http://ali.md/html5shiv)
-* [PHP](http://ali.md/php/)
-* [MySQL](http://ali.md/wiki/mysql)
-* [1Cache](http://ali.md/1cache)
+
 
 
 ## Contributing
