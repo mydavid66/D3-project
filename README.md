@@ -1,5 +1,4 @@
 
-
 # D3-Project  website
 This is the source for the main Personal website
 
@@ -7,7 +6,7 @@ This is the source for the main Personal website
 *[Davod Noori`mydavid66`](https://github.com/mydavid66) Project Manager
 
 ## THANKS (Contributors)
-* [Vahid Sajadi `V.sajadi`](https://github.com/v.sajadi) Technical Manager / Developer/Grafist
+* [Vahid Sajadi `V.sajadi`](https://github.com/v.sajadi) Technical Manager / Developer/Graphist
 
 ## TECHNOLOGY
 * [HTML5](http://ali.md/wiki/html5)
