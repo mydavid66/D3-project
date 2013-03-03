@@ -1,6 +1,8 @@
 # D3-Project  personal website
-#This is the source for the main Personal website
+This is the source for the main Personal website
+
 i choose this template for my project
+
 http://wahabali.com/jutt_doe/index.html
 
 ## TEAM (1Devs Web Department)
