@@ -1,5 +1,7 @@
-# D3-Project  website
+# D3-Project  personal website
 This is the source for the main Personal website
+i choose this template for my project
+http://wahabali.com/jutt_doe/index.html
 
 ## TEAM (1Devs Web Department)
 * [Davod Noori`mydavid66`](https://github.com/mydavid66) Project Manager
@@ -26,7 +28,7 @@ Check project and report your issue [here](https://github.com/D3-project)
 
 
 ## All rights reserved ###
-Please note that  Webfa.ws  is a curated site and that we reserve the right to refuse any listing for any reason.  
+Please note that  personal website  is a curated site and that we reserve the right to refuse any listing for any reason.  
   
 
 
